@@ -10,9 +10,10 @@
 - UI styled with Ant Design.
 
 ## Time Taken
-This lab took me approximately 4 days to complete.  
+This lab took me approximately 5 days to complete.  
 
 
 ## Most Challenging Part
-The most challenging part was:  
+The most challenging part was:
+
 -  Authentication setup
